@@ -29,9 +29,9 @@ print(a)
 
 #Logical Operators:and, or, not-Used when setting more than one condition at teh same time.
 
-print(100 > 200 and 100 == 200)
-print(100 > 200 or 100 == 200)
-print(not(100 > 200 or 100 == 200))
+print(300 > 200 and 300 == 200)
+print(300 > 200 or 300 == 200)
+print(not(300 > 200 or 300 == 200))
 
 #Bitwise Operators
 
